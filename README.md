@@ -1,8 +1,8 @@
 # FanZhi-反制红队攻击人员
 
-本项目收集整理研究反制红队攻击人员的方法或技巧。攻与防的对抗一直是道高一尺魔高一丈，不知谁是道，更不知谁是魔。蓝色中包含着红色，红色中又包含着蓝色。只有优秀的攻击队才能出色的反制攻击队！希望本仓库能够让红队避免被干翻，也希望红队早日被干翻！反制的本质是？给你一个软件，你敢运行吗？看上去知名的软件你敢运行？你相信作者的保证的话？在社会工程学面前信誉压根不值一谈。**希望每一次行动结束后，我们都可以拍着胸脯看着一分未丢的大屏信誓旦旦的说，今年这届攻击队技术能力不行！**通过反制提高技术能力水平。作者：[0e0w]()
+本项目收集整理研究反制红队攻击人员的方法或技巧。攻与防的对抗一直是道高一尺魔高一丈，不知谁是道，更不知谁是魔。蓝色中包含着红色，红色中又包含着蓝色。只有优秀的攻击队才能出色的反制攻击队！希望本仓库能够让红队避免被干翻，也希望红队早日被干翻！反制的本质是？给你一个软件，你敢运行吗？看上去知名的软件你敢运行？你相信作者的保证的话？在社会工程学面前信誉压根不值一谈。**希望每一次行动结束后，我们都可以拍着胸脯看着一分未丢的大屏信誓旦旦的说，今年这届攻击队技术能力不行！** 通过反制提高技术能力水平。作者：[0e0w]()
 
-本项目创建于2022年4月3日，最近的一次更新时间为2022年5月29日。
+本项目创建于2022年4月3日，最近的一次更新时间为2022年7月19日。
 
 - [01-何为反制]()
 - [02-工具反制]()
@@ -13,7 +13,7 @@
 
 ## 01-何为反制
 
-- 攻击队会做什么操作？攻击队对什么感兴趣？
+- 攻击队会做什么操作？攻击队对什么感兴趣？欲与攻击队试比高低。成为一名优秀的防守人员，从而吊打红队。
 
 一、反制概述
 
@@ -31,10 +31,13 @@
 - https://www.yuque.com/feiniao112/hnk3pi/hbx7lg
 - https://www.yuque.com/snnxyss/obcoqf/xhca0v
 - https://www.yuque.com/xiaoming-nx3vo/kklc70/kuallb
+- https://xz.aliyun.com/t/11403
+- https://xz.aliyun.com/t/11471
 
-## 02-工具反制
+## 02-反制工具
 
-- 攻击队会用到什么工具？漏洞扫描工具。网上下载的工具你敢运行？你还在使用破解软件？
+攻击队会用到什么工具？漏洞扫描工具。网上下载的工具你敢运行？你还在使用破解软件？
+
 - Goby反制
 - Xray反制
 - 蚁剑反制
@@ -45,13 +48,16 @@
   - https://mp.weixin.qq.com/s/N3MXMsDJM8DUSHBryCaDUw
 - RAR文件反制
 - Jar文件反制
+- IDEA
+  - https://github.com/wendell1224/ide-honeypot
 
-## 03-服务反制
+## 03-反制产品
 
 - MySQL
   - https://github.com/rmb122/rogue_mysql_server
   - https://github.com/fnmsd/MySQL_Fake_Server
   - https://github.com/BeichenDream/MysqlT
+  - https://github.com/heikanet/MysqlHoneypot
 - Web
 
 ## 04-钓鱼反制
@@ -74,12 +80,12 @@
 
 八、放一个Word文件？
 
+九、放一个webshell特征？->||<-
+
 九、工具破解钓鱼
 
 - https://github.com/CC11001100/idea-project-fish-exploit
 - https://rmb122.com/2021/10/02/%E5%88%A9%E7%94%A8%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%BF%9B%E8%A1%8C-RCE-IDE-Trust-Project-%E5%8A%9F%E8%83%BD%E6%8E%A2%E7%A9%B6/
-
-
 
 ## 05-蜜罐反制
 
@@ -95,6 +101,7 @@
 
 - https://github.com/jwxa2015/honeypotcollection
 - https://github.com/decoymini/DecoyMini
+- https://github.com/TheKingOfDuck/Loki
 
 ## 06-攻击画像
 
