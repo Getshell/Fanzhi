@@ -2,7 +2,7 @@
 
 本项目用来研究反制红队攻击人员的方法和思路。攻与防的对抗是道高一尺魔高一丈，但不知谁是道，更不知谁是魔。蓝色中包含着红色，红色中又包含着蓝色。只有优秀的攻击队才能出色的反制攻击队！本文能够让红队避免被干翻，也能把红队早日被干翻！**希望每一次行动结束后，都可以拍着胸脯看着一分未丢的大屏信誓旦旦的说，今年这届攻击队技术能力不行呀！不但没搞下系统，还反被搞了！** 作者：[0e0w]()
 
-本项目创建于2022年4月1日，最近的一次更新时间为2022年7月19日。
+本项目创建于2022年4月1日，最近的一次更新时间为2022年7月20日。
 
 - [01-何为反制](https://github.com/Getshell/Fanzhi#01-%E4%BD%95%E4%B8%BA%E5%8F%8D%E5%88%B6)
 - [02-工具反制](https://github.com/Getshell/Fanzhi#02-%E5%B7%A5%E5%85%B7%E5%8F%8D%E5%88%B6)
@@ -105,6 +105,7 @@
 - https://github.com/jwxa2015/honeypotcollection
 - https://github.com/decoymini/DecoyMini
 - https://github.com/TheKingOfDuck/Loki
+- https://www.freebuf.com/articles/database/339646.html
 
 ## 06-攻击画像
 
