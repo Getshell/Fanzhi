@@ -40,6 +40,7 @@
 - https://xz.aliyun.com/t/11403
 - https://xz.aliyun.com/t/11471
 - https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp
+- https://github.com/piaolin/DetectDee
 
 ## 02-工具反制
 
